@@ -1,0 +1,6 @@
+e
+e$2: a|2->a b|1->b
+aaa$2: a|2->aa b|2->aaa
+a$2: a|2->aa b|1->e
+b$1: a|1->aaa b|0->e
+aa$1: a|2->aaa b|2->e
